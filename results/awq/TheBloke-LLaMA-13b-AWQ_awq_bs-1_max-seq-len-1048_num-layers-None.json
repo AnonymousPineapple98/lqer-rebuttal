@@ -1,0 +1,1 @@
+{"batch_size": 1, "seq_len": 1048, "token_per_second": 3669.08, "total_max_vram": 7.242110252380371, "description": "batch_size=1, \nseq_len=1048, \ntoken_per_second=3669.08, \ntotal_max_vram_in_GB=7.242110252380371", "model": "TheBloke/LLaMA-13b-AWQ", "q_recipe": "awq", "num_hidden_layers": null, "rank": -1}

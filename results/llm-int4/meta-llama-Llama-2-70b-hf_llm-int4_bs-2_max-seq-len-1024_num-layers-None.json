@@ -1,0 +1,1 @@
+{"batch_size": 2, "seq_len": 1024, "token_per_second": 1685.26, "total_max_vram": 38.129737854003906, "description": "batch_size=2, \nseq_len=1024, \ntoken_per_second=1685.26, \ntotal_max_vram_in_GB=38.129737854003906", "model": "meta-llama/Llama-2-70b-hf", "q_recipe": "llm-int4", "num_hidden_layers": null, "rank": -1}
