@@ -8,7 +8,7 @@ This repo serves as the anonymous repo for LQER rebuttal, including GPU performa
 
 - Please refer to `./gpu_perf_results` for detailed results.
 - `./gpu_perf.png` is the barplot of throughput measured in tokens per second.
-- We measured prefilling throughput to remove the bias of KV cache implementation as different PTQ implementation may use different KV cache implementaion
+- We measured prefilling throughput to remove the bias of KV cache implementation as different PTQ package may use different KV cache implementaion
 - We sweep batch size and sequence length on RTX6000 Ada and H100. 
 
 ## Alpaca-Eval Results (Still Updating)
