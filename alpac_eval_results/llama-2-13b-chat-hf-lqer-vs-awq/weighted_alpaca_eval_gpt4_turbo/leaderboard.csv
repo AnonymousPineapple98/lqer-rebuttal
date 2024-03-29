@@ -1,0 +1,2 @@
+,win_rate,standard_error,mode,avg_length,n_wins,n_wins_base,n_draws,n_total,discrete_win_rate,length_controlled_winrate
+llama-2-13b-chat-hf-lqer,52.51389087046131,1.4841125321321664,community,1513,423,380,1,804,52.67412935323384,52.90278478226449
