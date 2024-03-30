@@ -4,6 +4,8 @@ This repo serves as the anonymous repo for LQER rebuttal, including GPU performa
 
 ## GPU Perf
 
+For GPU Perf, we use RTX 6000 Ada and H100.
+
 ![gpu_perf_bar_plot](./gpu_perf.png)
 
 - Please refer to `./gpu_perf_results` for detailed results.
@@ -13,11 +15,11 @@ This repo serves as the anonymous repo for LQER rebuttal, including GPU performa
 
 ## Alpaca-Eval Results (Still Updating)
 
-- We use GPT4 Turbo as evaluator
+We use GPT4 Turbo as evaluator
 
 | Model | Generation vs Reference | Length-controlled Win Rate | Win Rate | Std Error | 
 | ---   | :---                    | :---:                      | :---:    | :---:     |
 | LLaMA-2-7B-chat  | $L^2QER$ vs AWQ | 56.06 | 55.32 | 1.53 |
 | LLaMA-2-13B-chat | $L^2QER$ vs AWQ | 52.90 | 52.51 | 1.48 |
 
-- Please refer to `./alpaca_eval_results` for detailed raw results of AlpacaEval
+Please refer to `./alpaca_eval_results` for detailed raw results of AlpacaEval
